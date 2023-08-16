@@ -1,0 +1,15 @@
+.presentation{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+}
+.pp{
+    width: 20%;
+    border-radius: 20px;
+}
+.texte-container{
+    width: 40%;
+    color: white;
+}
