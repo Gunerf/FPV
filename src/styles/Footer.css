@@ -11,11 +11,20 @@
     font-size: 2rem;
     display: flex;
     gap: 5rem;
-    color: grey;
+    color: #07294c;
 }
 .contact{
     font-size: 0.8rem;
 }
 .contact h2{
-    color: grey;
+    color: #07294c;
+}
+.contact h1{
+    display: flex;
+    align-items: center;
+}
+.contact i{
+    margin-inline: 1rem;
+    font-size: 3rem;
+    color: #07294c;
 }

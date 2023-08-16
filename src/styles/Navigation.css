@@ -1,0 +1,23 @@
+.navigation{
+    color: #07294c;
+    display: flex;
+    justify-content: space-around;
+    background: white;
+    padding: 0.5rem;
+    margin-inline: 37%;
+    border-radius: 40px;
+    font-size: 0.8rem;
+}
+.navigation h2:hover{
+    margin: 1rem;
+    margin-inline: 2rem;
+}
+.navigation h2:hover{
+    transition: .5s;
+    background-color: #07294c;
+    color: white;
+    padding: 1rem;
+    margin: 0;
+    border-radius: 40px;
+    cursor: pointer;
+}

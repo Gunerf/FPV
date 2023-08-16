@@ -5,8 +5,7 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='contact'>
-            <h2>Mon adresse mail</h2>
-            <h1>contact@shvp.fr</h1>
+            <h1><i class="fas fa-envelope"></i>contact@shvp.fr</h1>
         </div>
         <div className='reseau'>
         <i class="fab fa-instagram"></i>
